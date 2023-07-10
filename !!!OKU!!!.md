@@ -1,6 +1,7 @@
 "Gizlilik Politikası - Brux Team Bot
 
 - 👋 Hi, I’m @Jokerowner1st
+- https://discord.gg/2TxCckrtxp
 
 Bu gizlilik politikası, Brux Team Bot adlı Discord botunun kullanıcı gizliliği ve veri koruma uygulamaları hakkında bilgi vermektedir. Bu politika, Brux Team Bot'un kullanıcılarının gizliliğini korumayı ve kişisel verilerin güvenliğini sağlamayı taahhüt eder.
 
@@ -26,3 +27,4 @@ Bu gizlilik politikası zaman zaman güncellenebilir veya değiştirilebilir. Po
 Gizlilik politikası hakkında herhangi bir sorunuz veya endişeniz varsa, lütfen bizimle iletişime geçmekten çekinmeyin. İletişim bilgilerimiz [botun iletişim bilgileri eklenebilir].
 
 Bu gizlilik politikası, Brux Team Bot'un kullanıcılarının gizliliğini korumayı ve kişisel verilerin güvenliğini sağlamayı amaçlamaktadır. Botun kullanımıyla ilgili olarak herhangi bir sorunuz varsa, lütfen bize ulaşın ve yardımcı olmaktan mutluluk duyarız."
+https://discord.gg/2TxCckrtxp
